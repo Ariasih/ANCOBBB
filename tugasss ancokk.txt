@@ -1,0 +1,7 @@
+Uraian	P1	p2	p3	p4	p5	total
+Konsumsi rumput (kg/hari)	39,17	39,00	39,23	39,47	39,26	196,13
+Konsumsi Konsentrat (kg/hari)	6,00	6,00	6,00	6,00	6,00	30,0
+Konsumsi Bahan Kering (kg/hari)	13,12	13,09	13,13	13,17	13,13	65,64
+Produksi susuﾊ (liter/hari)	10,78	9,70	10,06	9,19	10,21	49,94
+Nilai efisiensi pakan (%)	82,16	74,10	76,62	69,78	77,76	380,42
+Total	151,23	141,89	145,04	137,61	146,36	722,13
